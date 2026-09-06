@@ -1,0 +1,32 @@
+---
+name: "\U0001F4A1 新功能需求"
+description: octo-cli 的一个新能力/增强
+title: "[Feature] <一句话概述>"
+labels: ["type/feature", "priority/P2", "status/new", "from/user"]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 用户场景（谁在什么情况下需要）
+      placeholder: 作为 XX，我希望在 YY 场景下能……
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望行为（用户视角，What）
+    validations:
+      required: true
+  - type: textarea
+    id: pain
+    attributes:
+      label: 现状的痛点
+  - type: dropdown
+    id: pri
+    attributes:
+      label: 优先级感受（主观）
+      options:
+        - P0：阻塞/非常紧急
+        - P1：重要
+        - P2：一般
+        - P3：可延后

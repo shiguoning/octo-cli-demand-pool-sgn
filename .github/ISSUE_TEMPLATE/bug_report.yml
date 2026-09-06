@@ -1,0 +1,46 @@
+---
+name: "\U0001F41B Bug 反馈"
+description: octo-cli 的一个缺陷/异常行为
+title: "[Bug] <一句话概述>"
+labels: ["type/bug", "priority/P2", "status/new", "from/user"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈！请尽量按下面结构填。信息不足时管家会在群里澄清（≤3 个问题）。
+  - type: textarea
+    id: summary
+    attributes:
+      label: 一句话总结
+      placeholder: 在 XX 场景下，运行 YY 命令，出现 ZZ
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: 复现步骤（Bug 必填）
+      placeholder: |
+        1. octo-cli 版本：
+        2. 执行命令：
+        3. 期望：
+        4. 实际：
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据（日志/输出/截图）
+  - type: textarea
+    id: source_ref
+    attributes:
+      label: 相关源码位置（如果知道）
+      placeholder: 来源: internal/xxx.go#L42-L58
+  - type: dropdown
+    id: severity
+    attributes:
+      label: 严重程度（报告人主观）
+      options:
+        - 阻塞：完全无法使用
+        - 严重：核心功能受影响
+        - 一般：有绕行方案
+        - 建议：体验问题
