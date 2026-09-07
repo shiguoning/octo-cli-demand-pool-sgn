@@ -1,0 +1,9 @@
+{
+ "reason": "not-modified",
+ "events": [],
+ "rate_remaining": "4983",
+ "upstream": {
+  "type": "upstream_check_failed",
+  "error": "error: cannot open .git/FETCH_HEAD: Permission denied\n"
+ }
+}
