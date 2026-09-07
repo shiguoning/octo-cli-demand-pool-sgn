@@ -1,0 +1,25 @@
+{
+ "scan_at": "2026-09-07T14:55:13.563457+00:00",
+ "events_count": 1,
+ "events": [
+  {
+   "type": "new",
+   "number": "4",
+   "title": "支持命令别名：一条别名展开成一串参数组合",
+   "state": "open",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/new",
+    "type/feature"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/4",
+   "author": "shiguoning"
+  }
+ ],
+ "rate_remaining": "4971",
+ "issues_total": 4,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
