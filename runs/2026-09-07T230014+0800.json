@@ -1,0 +1,33 @@
+{
+ "scan_at": "2026-09-07T15:00:14.992905+00:00",
+ "events_count": 2,
+ "events": [
+  {
+   "type": "labeled",
+   "number": "4",
+   "added": [
+    "status/published"
+   ],
+   "title": "支持命令别名：一条别名展开成一串参数组合",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/4",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ]
+  },
+  {
+   "type": "commented",
+   "number": "4",
+   "delta": 2,
+   "title": "支持命令别名：一条别名展开成一串参数组合",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/4"
+  }
+ ],
+ "rate_remaining": "4960",
+ "issues_total": 4,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
