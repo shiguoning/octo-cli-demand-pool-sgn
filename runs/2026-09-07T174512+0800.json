@@ -1,0 +1,24 @@
+{
+ "scan_at": "2026-09-07T09:45:12.301465+00:00",
+ "events_count": 1,
+ "events": [
+  {
+   "type": "closed",
+   "reason": "not_planned",
+   "number": "1",
+   "title": "JQ_RUNTIME_ERROR 的错误 envelope 缺少可定位 detail",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/1",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/new",
+    "type/bug"
+   ]
+  }
+ ],
+ "rate_remaining": "4988",
+ "issues_total": 2,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
