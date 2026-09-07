@@ -1,0 +1,33 @@
+{
+ "scan_at": "2026-09-07T08:20:16.567182+00:00",
+ "events_count": 2,
+ "events": [
+  {
+   "type": "labeled",
+   "number": "2",
+   "added": [
+    "status/published"
+   ],
+   "title": "cache.clear 默认保留 OAuth token，并提供彻底清理开关",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/2",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ]
+  },
+  {
+   "type": "commented",
+   "number": "2",
+   "delta": 1,
+   "title": "cache.clear 默认保留 OAuth token，并提供彻底清理开关",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/2"
+  }
+ ],
+ "rate_remaining": "4944",
+ "issues_total": 2,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
