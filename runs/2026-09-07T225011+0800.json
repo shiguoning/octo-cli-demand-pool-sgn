@@ -1,0 +1,26 @@
+{
+ "scan_at": "2026-09-07T14:50:11.125834+00:00",
+ "events_count": 1,
+ "events": [
+  {
+   "type": "labeled",
+   "number": "3",
+   "added": [
+    "status/published"
+   ],
+   "title": "支持命令响应结果本地缓存以提升重复查询速度",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/3",
+   "labels": [
+    "from/user",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ]
+  }
+ ],
+ "rate_remaining": "4976",
+ "issues_total": 3,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
