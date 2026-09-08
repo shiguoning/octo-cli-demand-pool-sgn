@@ -1,0 +1,33 @@
+{
+ "scan_at": "2026-09-08T03:35:57.607882+00:00",
+ "events_count": 2,
+ "events": [
+  {
+   "type": "labeled",
+   "number": "5",
+   "added": [
+    "status/in-review"
+   ],
+   "title": "支持通过 winget 安装 octo-cli",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/5",
+   "labels": [
+    "from/user",
+    "priority/P2",
+    "status/in-review",
+    "type/feature"
+   ]
+  },
+  {
+   "type": "commented",
+   "number": "5",
+   "delta": 1,
+   "title": "支持通过 winget 安装 octo-cli",
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/5"
+  }
+ ],
+ "rate_remaining": "4951",
+ "issues_total": 5,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
