@@ -1,0 +1,12 @@
+{
+ "reason": "not-modified",
+ "events": [],
+ "rate_remaining": "4972",
+ "upstream": {
+  "type": "upstream_updated",
+  "base_commit": "7dc5aa6ca2ae9215f0f825c21d6e3a898e3dadf2",
+  "new_commit": "793b354a0029c4e0f5e688a1ce85189e34029bd0",
+  "latest_commit_msg": "fix(sheet): document sparse filter columns (#164)",
+  "note": "知识库基准 commit 已过期，需更新对应模块卡"
+ }
+}
