@@ -1,0 +1,82 @@
+{
+ "scan_at": "2026-09-09T14:05:15.334685+00:00",
+ "events_count": 5,
+ "events": [
+  {
+   "type": "new",
+   "number": "5",
+   "title": "支持通过 winget 安装 octo-cli",
+   "state": "open",
+   "labels": [
+    "from/user",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/5",
+   "author": "shiguoning"
+  },
+  {
+   "type": "new",
+   "number": "4",
+   "title": "支持命令别名：一条别名展开成一串参数组合",
+   "state": "open",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/4",
+   "author": "shiguoning"
+  },
+  {
+   "type": "new",
+   "number": "3",
+   "title": "支持命令响应结果本地缓存以提升重复查询速度",
+   "state": "open",
+   "labels": [
+    "from/user",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/3",
+   "author": "shiguoning"
+  },
+  {
+   "type": "new",
+   "number": "1",
+   "title": "JQ_RUNTIME_ERROR 的错误 envelope 缺少可定位 detail",
+   "state": "closed",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/new",
+    "status/wontfix",
+    "type/bug"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/1",
+   "author": "shiguoning"
+  },
+  {
+   "type": "new",
+   "number": "2",
+   "title": "cache.clear 默认保留 OAuth token，并提供彻底清理开关",
+   "state": "open",
+   "labels": [
+    "from/examiner",
+    "priority/P2",
+    "status/published",
+    "type/feature"
+   ],
+   "url": "https://github.com/shiguoning/octo-cli-demand-pool-sgn/issues/2",
+   "author": "shiguoning"
+  }
+ ],
+ "rate_remaining": "4974",
+ "issues_total": 5,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
