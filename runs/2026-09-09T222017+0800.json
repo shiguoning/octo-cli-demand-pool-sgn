@@ -1,0 +1,10 @@
+{
+ "scan_at": "2026-09-09T14:20:17.663943+00:00",
+ "events_count": 0,
+ "events": [],
+ "rate_remaining": "4960",
+ "issues_total": 0,
+ "upstream": {
+  "state": "unchanged"
+ }
+}
