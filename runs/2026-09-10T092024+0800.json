@@ -1,0 +1,12 @@
+{
+ "reason": "not-modified",
+ "events": [],
+ "rate_remaining": "4976",
+ "upstream": {
+  "type": "upstream_updated",
+  "base_commit": "793b354a0029c4e0f5e688a1ce85189e34029bd0",
+  "new_commit": "47f4c5f0238a962c3dec61be291f4deeca5da494",
+  "latest_commit_msg": "feat(docs): document sheet grid-size contract (#162)",
+  "note": "知识库基准 commit 已过期，需更新对应模块卡"
+ }
+}
