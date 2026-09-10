@@ -1,0 +1,7 @@
+{
+ "reason": "suspicious-empty-response",
+ "note": "GitHub 200 但 issues=空 list，老快照非空，跳过快照更新防误报",
+ "old_issue_count": 5,
+ "rate_remaining": "4900",
+ "events": []
+}
