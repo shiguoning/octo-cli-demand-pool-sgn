@@ -1,0 +1,12 @@
+{
+ "reason": "not-modified",
+ "events": [],
+ "rate_remaining": "4987",
+ "upstream": {
+  "type": "upstream_updated",
+  "base_commit": "793b354a0029c4e0f5e688a1ce85189e34029bd0",
+  "new_commit": "de26e229a57d95eada4dbe905311ada0f4a3e844",
+  "latest_commit_msg": "feat(docs): add sheet find and replace command (#167)",
+  "note": "知识库基准 commit 已过期，需更新对应模块卡"
+ }
+}
